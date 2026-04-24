@@ -10,12 +10,12 @@ Jaya-Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ### Cakupan Proyek
 Proyek ini mencakup:
-1. Data Understanding: Menmahami data untuk melihat pola awal attrition karyawan.
-2. Data Cleaning & Preparation: Membersihkan dan memproses data
-3. Exploratory Analysis: Menganalisis hubungan variabel seperti job role, income, overtime, dan satisfaction terhadap attrition.
-4. Modeling: Mengembangkan model untuk memprediksi attrition.
-5. Dashboard: Menyajikan insight dalam bentuk visual interaktif untuk HR.
-6. Business Insight: Menarik kesimpulan dari hasil analisis dan memberikan rekomendasi retensi karyawan.
+1. **Data Understanding:** Menmahami data untuk melihat pola awal attrition karyawan.
+2. **Data Cleaning & Preparation:** Membersihkan dan memproses data
+3. **Exploratory Analysis:** Menganalisis hubungan variabel seperti job role, income, overtime, dan satisfaction terhadap attrition.
+4. **Modeling:** Mengembangkan model untuk memprediksi attrition.
+5. **Dashboard:** Menyajikan insight dalam bentuk visual interaktif untuk HR.
+6. **Business Insight:** Menarik kesimpulan dari hasil analisis dan memberikan rekomendasi retensi karyawan.
 
 ### Persiapan
 **Sumber data:** [Employee Data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee 'Dicoding Github - Employee Data')
@@ -79,4 +79,7 @@ Berdasarkan analisis data, diperoleh beberapa kesimpulan, yaitu
 
 
 ### Rekomendasi Action Items
-
+1. **Kurangi Overtime:** Mengurangi jam kerja lembur untuk menekan tingkat kelelahan (burnout) karyawan yang dapat meningkatkan risiko resign.
+2. **Perbaiki Work Life Balance:** Meningkatkan keseimbangan antara pekerjaan dan kehidupan pribadi agar karyawan lebih nyaman dan bertahan lebih lama di perusahaan.
+3. **Fokus Retensi di Karyawan Baru:** Memberikan perhatian lebih pada karyawan dengan masa kerja awal melalui onboarding dan pendampingan agar tidak mudah keluar di masa adaptasi.
+4. **Perjelas Jalur Karier dan Promosi:** Menyediakan sistem karier yang jelas dan transparan agar karyawan memiliki motivasi untuk berkembang dan tidak merasa stagnan.
