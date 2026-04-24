@@ -36,7 +36,7 @@ python prediction.py
 ## Business Dashboard
 Dashboard ini dibuat untuk untuk memberikan gambaran cepat kepada tim HR mengenai faktor-faktor utama yang memengaruhi attrition karyawan. Dengan visualisasi data yang ringkas, dashboard ini membantu mengubah data HR menjadi insight yang mudah dipahami untuk pengambilan keputusan.
 [Link Dashboard](https://datastudio.google.com/reporting/f180bcae-2704-4dbd-a35c-ff465ccf20cf)
-[Dashboard](evitamyna_dicoding-dashboard.jpg)
+![Dashboard](evitamyna_dicoding-dashboard.jpg)
 
 ## Conclusion
 
